@@ -45,11 +45,6 @@ Es una plataforma de gestión bibliotecaria y fidelización que actualmente esto
 - **Entorno Linux:** Todo el desarrollo, desde la configuración de servicios hasta la persistencia, lo realizo en una **VM con Ubuntu**, lo que me permite un control total sobre el despliegue y la administración del sistema.
 - **Frontend con PrimeReact:** Creando una interfaz de usuario profesional y altamente tipada con TypeScript.
 
----
-
-### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CaroVillalba&show_icons=true&theme=radical&hide_border=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroVillalba&layout=compact&theme=radical&hide_border=true)
 
 ---
 
