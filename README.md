@@ -2,10 +2,6 @@
 
 ### 🚀 Full Stack Developer Junior | Estudiante de Programación en UNSAM
 
-Soy una apasionada por la tecnología y el desarrollo de software, actualmente enfocada en crear soluciones robustas y escalables. Mi formación en la **Universidad Nacional de San Martín (UNSAM)** me ha brindado una base sólida en Algoritmos, Estructuras de Datos y, sobre todo, en los principios de la **Programación Orientada a Objetos (OOP)**.
-
-Me encanta enfrentar desafíos técnicos que requieran aprender nuevas herramientas, como lo hice recientemente migrando mi entorno de desarrollo a **Linux/Ubuntu** para dominar el uso de **Docker** y contenedores.
-
 ---
 
 ### 🛠️ Mi Stack Tecnológico
