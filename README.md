@@ -27,27 +27,6 @@ Me encanta enfrentar desafíos técnicos que requieran aprender nuevas herramien
 
 ---
 
-### 📂 Proyectos Destacados
-
-#### 📖 [BookLibre (PastelReads)](https://github.com/CaroVillalba/BookLibre)
-*Sistema de gestión de bibliotecas con gamificación.*
-- **Lo que hice:** Implementé la lógica de negocio para reservas y un sistema de "bibliokarmas" para premiar usuarios.
-- **Tecnologías:** Kotlin, Spring Boot, React, PostgreSQL y Docker.
-
-### 🏗️ Proyecto en el que estoy trabajando actualmente
-
-#### 📖 [BookLibre (PastelReads)](https://github.com/CaroVillalba/BookLibre)
-Es una plataforma de gestión bibliotecaria y fidelización que actualmente estoy escalando hacia un entorno productivo real.
-
-**Lo más destacado de mi trabajo actual:**
-- **Persistencia Avanzada:** Implementando **PostgreSQL** para la gestión de datos relacionales complejos (reservas, bibliokarmas y perfiles de usuario).
-- **Infraestructura con Docker:** Utilizo **Docker** para orquestar la base de datos y asegurar que el entorno de desarrollo sea idéntico al de producción.
-- **Entorno Linux:** Todo el desarrollo, desde la configuración de servicios hasta la persistencia, lo realizo en una **VM con Ubuntu**, lo que me permite un control total sobre el despliegue y la administración del sistema.
-- **Frontend con PrimeReact:** Creando una interfaz de usuario profesional y altamente tipada con TypeScript.
-
-
----
-
 ### 📫 ¿Cómo contactarme?
 
 - **LinkedIn:** [linkedin.com/in/carolina-villalba/](https://www.linkedin.com/in/carolina-villalba/)
