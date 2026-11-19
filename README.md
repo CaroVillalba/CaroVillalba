@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carolina Villalba 👋
 
-### 🚀 Full Stack Developer Junior | Estudiante de Programación en UNSAM
+### 🚀 Full Stack Developer  | Estudiante de la tecnicatura en programación informática en UNSAM
 
 ---
 
